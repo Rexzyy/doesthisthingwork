@@ -1,0 +1,1 @@
+Write-Host "\\WHAT//IS\\THIS//" -Back Black -Fore Red

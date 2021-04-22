@@ -1,7 +1,1 @@
-medecision.sql 
-=medecision,
-com.hcsc
-bcbsil.com
-fyiblue.com
-com.medecision,
-securetransfer.medecision-
+
